@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-ML-orange)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-ML-orange) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b?logo=streamlit)
 ![WebRTC](https://img.shields.io/badge/WebRTC-Live%20Video-green)
 
